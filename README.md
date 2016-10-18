@@ -25,9 +25,9 @@ Additionally we have installed MXNet running the following commands:
 
 Next modify config.mk by setting the following keys:
 
-     `USE_CUDA = 1`
-     `USE_CUDA_PATH = /usr/local/cuda`
-     `USE_BLAS = atlas`
+     `USE_CUDA = 1
+     USE_CUDA_PATH = /usr/local/cuda
+     USE_BLAS = atlas`
      
 Finally, compile mxnet with the command `make –j4'
 
