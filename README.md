@@ -45,8 +45,8 @@ Finally, compile mxnet with the command `make –j4`
 
 This example presents one possible usage of deep learning models for classification of images. 
 One important problem is selection of an optimal structure for a deep neural network. 
-This reuires execution of several experiments for measuring predictive capabilities for various network topologies. 
-Anazon Web Services comes forward to this need and offers very large GPU instances. The flagship offering is a p2.16xlarge offering 16 x GPU Nvidia TESLA K80 with a total of 80'000 GPU cores. This machine availabe from around $2.10 on AWS spot market would make it to the list of Top Supercomputers just 10 years ago.
+This requires execution of several experiments for measuring predictive capabilities for various network topologies. 
+Amazon Web Services comes forward to this need and offers very large GPU instances. The flagship offering is a p2.16xlarge offering 16 x GPU Nvidia TESLA K80 with a total of 80'000 GPU cores. This machine availabe from around $2.10 on AWS spot market would make it to the list of Top Supercomputers just 10 years ago.
 
 
 
